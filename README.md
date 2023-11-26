@@ -1,8 +1,8 @@
 ### olá! eu sou o Jordan Menezes 🖐️
 
 [![blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://monip.org)
-[![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](http://https://www.youtube.com/@DevAprender)
-[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://https://instagram.com/jordanmenezess)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](http://https://www.youtube.com/devprender)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://https://instagram.com/jordanmenezess)
 
 
 ![Jordan Menezes GitHub stats](https://github-readme-stats.vercel.app/api?username=devjordanmenezes&show_icons=true&theme=chartreuse-dark)
@@ -19,5 +19,5 @@
 
 Sou um apaixonado por tecnologias, e amo programar e criar soluções que ajudam e facilitam a vida das pessoas.
 
-#ultimo videos:
--[]
+#### Último vídeos:
+-
